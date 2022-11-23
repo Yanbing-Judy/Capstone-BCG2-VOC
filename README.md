@@ -6,8 +6,10 @@
 **汽车之家--爬虫参考**
 
 * 反爬限制：文字加密
-参考解决方案：
+      参考解决方案：
+
        * https://blog.csdn.net/wang785994599/article/details/89360938 
+       
        * https://www.bilibili.com/read/cv12437245/ 
 
 * https://www.cnblogs.com/c1033383881/p/15865985.html
